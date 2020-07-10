@@ -7,6 +7,6 @@
 
 My name is Fabio Menozzi and I'm Software Engineer
  
-:heart: _&nbsp;_ Technology and Code :computer:
+:green_heart: _&nbsp;_ Technology and Code :computer:
  
- :green_heart: _&nbsp;_  Node JS
+

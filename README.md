@@ -9,4 +9,5 @@ My name is Fabio Menozzi and I'm Software Engineer
  
 :green_heart: _&nbsp;_ Technology and Code :computer:
  
+<img src="https://res.cloudinary.com/menozzi/image/upload/v1596670922/octocat/octocat_1_sa93o2.png" width="250">
 

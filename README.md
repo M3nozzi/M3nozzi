@@ -1,6 +1,6 @@
 # Fabio Menozzi :man_technologist:
 
-[![Twitter Badge](https://img.shields.io/badge/-@faMenozzi-324ccc?style=flat-square&labelColor=324ccc&logo=twitter&logoColor=white&link=https://twitter.com/faMenozzi)](https://twitter.com/faMEnozzi) 
+[![Twitter Badge](https://img.shields.io/badge/-@M3nozzi-324ccc?style=flat-square&labelColor=324ccc&logo=twitter&logoColor=white&link=https://twitter.com/M3nozzi)](https://twitter.com/M3nozzi) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabio%20Menozzi-324ccc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menozzi-fabio/)](https://www.linkedin.com/in/menozzi-fabio/)
 [![Medium: @menozzi](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@menozzi/)](https://medium.com/@menozzi/)
 [![Codewars Badge](https://www.codewars.com/users/Menozzi/badges/micro)](https://www.codewars.com/users/Menozzi)

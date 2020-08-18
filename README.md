@@ -28,7 +28,8 @@ My name is Fabio Menozzi and I'm Software Engineer
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mysql_original_wordmark_logo_icon_146417.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_wordmark_logo_icon_146557.png" width="38px">
 <img align='left' src="https://icon-icons.com/icons2/2407/PNG/64/aws_icon_146074.png" width="36px">
-<img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_serverless_icon_130172.png" width="36px">
+<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_serverless_icon_130172.png" width="36px">
+<br/> <img>
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/git_original_wordmark_logo_icon_146510.png" width="38px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/react_original_wordmark_logo_icon_146375.png" width="38px">
 <img align='left' src="https://icon-icons.com/icons2/112/PNG/48/python_18894.png" width="36px">

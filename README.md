@@ -19,7 +19,7 @@ My name is Fabio Menozzi and I'm Software Engineer
 
 <br/>
 <br/>
-
+<img >
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/nodejs_original_logo_icon_146411.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="36px"> 
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/typescript_plain_logo_icon_146316.png" width="36px">

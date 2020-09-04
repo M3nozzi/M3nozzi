@@ -13,7 +13,7 @@ My name is Fabio Menozzi and I'm Software Engineer
  
 :green_heart: _&nbsp;_ Technology and Code :computer:
 
-<img align='left' src="https://res.cloudinary.com/menozzi/image/upload/v1597328346/octocat/file_type_node_icon_130301_stcbn1.png" width="25">Node.js lover
+<img align='left' src="https://res.cloudinary.com/menozzi/image/upload/v1597328346/octocat/file_type_node_icon_130301_stcbn1.png" width="25">Node.js 
 
 <img align='left' src="https://res.cloudinary.com/menozzi/image/upload/v1597326081/octocat/ironhacker_badge_qkeg67.png" width="25">Graduated at Ironhack
 

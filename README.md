@@ -15,7 +15,7 @@ My name is Fabio Menozzi and I'm Software Engineer
 
 <img align='left' src="https://res.cloudinary.com/menozzi/image/upload/v1597326081/octocat/ironhacker_badge_qkeg67.png" width="25">Graduated at Ironhack
 
-<br/>
+My tech skills:
 <br/>
 <img >
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/nodejs_original_logo_icon_146411.png" width="36px">

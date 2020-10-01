@@ -14,7 +14,9 @@ My name is Fabio Menozzi and I'm Software Engineer
 :green_heart: _&nbsp;_ Technology and Code :computer:
 
 Learning  
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/swift_original_wordmark_logo_icon_146331.png" width="48px">
+<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/swift_original_wordmark_logo_icon_146331.png" width="56px">
+<br/>
+<br/>
 <br/>
 <br/>
 My tech skills:

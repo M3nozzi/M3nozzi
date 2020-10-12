@@ -13,6 +13,8 @@ My name is Fabio Menozzi and I'm Software Engineer
  
 :green_heart: _&nbsp;_ Technology and Code :computer:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nozzi&layout=compact&hide=java&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
 Learning : 
 <br/>
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/swift_original_wordmark_logo_icon_146331.png" width="56px"> 

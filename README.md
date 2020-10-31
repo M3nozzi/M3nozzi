@@ -13,7 +13,7 @@ My name is Fabio Menozzi and I'm Software Engineer
  
 :green_heart: _&nbsp;_ Technology and Code :computer:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nozzi&layout=compact&hide=java&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nozzi&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 Learning : 
 <br/>

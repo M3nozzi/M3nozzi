@@ -15,12 +15,7 @@ My name is Fabio Menozzi and I'm Software Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M3nozzi&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-Learning : 
-<br/>
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/swift_original_wordmark_logo_icon_146331.png" width="56px"> 
-<br/>
-<br/>
-<br/>
+
 My tech skills:
 <br/>
 <br/>

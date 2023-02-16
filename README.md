@@ -20,7 +20,7 @@ My tech skills:
 <br/>
 <br/>
 <img >
-<img align='left' src="https://icon-icons.com/icon/swift-original-logo/146332" width="36px">
+<img align='left' src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/nodejs_original_logo_icon_146411.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="36px"> 
 <img align='left' src="https://icon-icons.com/icons2/112/PNG/48/python_18894.png" width="36px">
@@ -29,7 +29,6 @@ My tech skills:
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mysql_original_wordmark_logo_icon_146417.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_wordmark_logo_icon_146557.png" width="38px">
 <br/> <img> <img><br/>
-<img align='left' src="https://icon-icons.com/icons2/2407/PNG/64/aws_icon_146074.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_serverless_icon_130172.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/git_original_wordmark_logo_icon_146510.png" width="38px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/react_original_wordmark_logo_icon_146375.png" width="38px">

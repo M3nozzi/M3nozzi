@@ -29,9 +29,7 @@ My tech skills:
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mysql_original_wordmark_logo_icon_146417.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_wordmark_logo_icon_146557.png" width="38px">
 <br/> <img> <img><br/>
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_serverless_icon_130172.png" width="36px">
 <img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/git_original_wordmark_logo_icon_146510.png" width="38px">
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/react_original_wordmark_logo_icon_146375.png" width="38px">
 <img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" width="33px">
 <img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png" width="33px">
 <img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_sqlite_icon_130153.png" width="36px">

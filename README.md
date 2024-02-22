@@ -10,4 +10,4 @@
 
 My name is Fabio Menozzi and I'm Product Owner and Software Engineer
  
-:blue_heart: _&nbsp;_ Business, UX and Technology:
+:blue_heart: _&nbsp;_ Business, UX and Technology

@@ -10,7 +10,7 @@
 
 My name is Fabio Menozzi and I'm Software Engineer
  
-:blue_heart: _&nbsp;_ Technology and Code :computer:
+:blue_heart: _&nbsp;_ Business, UX and Technology:
 
 My tech skills:
 <br/>

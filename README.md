@@ -8,29 +8,6 @@
 
 ### Welcome to my Github profile 👋 
 
-My name is Fabio Menozzi and I'm Software Engineer
+My name is Fabio Menozzi and I'm Product Owner and Software Engineer
  
 :blue_heart: _&nbsp;_ Business, UX and Technology:
-
-My tech skills:
-<br/>
-<br/>
-<img >
-<img align='left' src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png" width="36px">
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/48/nodejs_original_logo_icon_146411.png" width="36px">
-<img align='left' src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="36px"> 
-<img align='left' src="https://icon-icons.com/icons2/112/PNG/48/python_18894.png" width="36px">
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mongodb_original_wordmark_logo_icon_146425.png" width="42px">
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_graphql_icon_130564.png" width="36px">
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/mysql_original_wordmark_logo_icon_146417.png" width="36px">
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_wordmark_logo_icon_146557.png" width="38px">
-<br/> <img> <img><br/>
-<img align='left' src="https://icon-icons.com/icons2/2415/PNG/64/git_original_wordmark_logo_icon_146510.png" width="38px">
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" width="33px">
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png" width="33px">
-<img align='left' src="https://icon-icons.com/icons2/2107/PNG/48/file_type_sqlite_icon_130153.png" width="36px">
-
-
-
-
-
